@@ -1,7 +1,8 @@
 # Sensitive-Eyes
  한국정보통신보안윤리학회
- 
-<iframe width="545" height="506" src="https://www.youtube.com/embed/ua1DzJOq3t4"allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## 시연영상
+[![Watch the video](https://img.youtube.com/vi/ua1DzJOq3t4/hqdefault.jpg)](https://youtu.be/ua1DzJOq3t4)
+[![Watch the video](https://img.youtube.com/vi/S43Wp6y8yFU/hqdefault.jpg)](https://youtu.be/S43Wp6y8yFU)
 
 ## license
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////

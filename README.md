@@ -1,7 +1,9 @@
 # Sensitive-Eyes
  한국정보통신보안윤리학회
- <iframe width="640" height="360" src="https://www.youtube.com/watch?v=ua1DzJOq3t4" frameborder="0" gesture="media" allowfullscreen=""></iframe>
- ## license
+ 
+<iframe width="545" height="506" src="https://www.youtube.com/embed/ua1DzJOq3t4"allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## license
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 By downloading, copying, installing or using the software you agree to this license. If you do not agree to this license, do not download, install, copy or use the software.
